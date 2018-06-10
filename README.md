@@ -6,8 +6,9 @@
 Remember to make **npm i or npm install** in the root of the app to install the **modules**.
 
 ## Structure
-* dbConnection
-* AdminDao
+* src
+    * dbConnection
+    * AdminDao
 
 ## Info
 Remember to change the user and password in dbConnection.
